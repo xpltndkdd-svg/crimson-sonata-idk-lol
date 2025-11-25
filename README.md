@@ -1,5 +1,3 @@
-# crimson-sonata-idk-lol
-idk
 Player=game:GetService("Players").LocalPlayer
 Character=Player.Character 
 PlayerGui=Player.PlayerGui
